@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleDetection": "force",
+    "module": "ESNext",
+    "skipLibCheck": true
+  }
+}

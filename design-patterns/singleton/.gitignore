@@ -1,0 +1,6 @@
+# dependecies
+node_modules/
+
+
+# out
+*.js
