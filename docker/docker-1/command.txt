@@ -1,0 +1,3 @@
+docker image ls => to list docker images currently available on your system
+docker ps => list all the running containers
+docker start [container id or container name] => start a docker container
